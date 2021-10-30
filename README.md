@@ -1,3 +1,3 @@
 # add
 
-make a program to add two numbers 
+Make a program to add two numbers.
